@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
   <title>ME Growth Bridge</title>
-  <g fill="none" stroke="#0F2238" stroke-width="32" stroke-linecap="round" stroke-linejoin="round">
+  <g fill="none" stroke="#FFB800" stroke-width="32" stroke-linecap="round" stroke-linejoin="round">
     <path d="M128 400 V100"/>
     <path d="M384 400 V100"/>
     <path d="M128 100 L256 200"/>
