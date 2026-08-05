@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
   <title>ME Growth Bridge - Horizontal Lockup</title>
-  <!-- M Icon (scaled to 160x160, centered vertically in 200px height) -->
-  <g transform="translate(20, 20) scale(0.3125)" fill="none" stroke="#0F2238" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Original M design - M Icon (scaled to 160x160, centered vertically in 200px height) -->
+  <g transform="translate(20, 20) scale(0.3125)" fill="none" stroke="#F8FAFC" stroke-linecap="round" stroke-linejoin="round">
     <path d="M128 400 V100" stroke-width="28"/>
     <path d="M384 400 V100" stroke-width="28"/>
     <path d="M128 100 L256 200" stroke-width="28"/>
     <path d="M384 100 L256 200" stroke-width="28"/>
     <path d="M256 200 V400" stroke-width="28"/>
-    <path d="M116 340 Q256 318 396 340" stroke-width="10"/>
+    <path d="M116 340 Q256 318 396 340" stroke="#FFB800" stroke-width="10"/>
   </g>
   <!-- Text: ME GROWTH BRIDGE -->
-  <text x="210" y="118" font-family="'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="42" font-weight="600" letter-spacing="0.08em" fill="#0F2238">ME GROWTH BRIDGE</text>
+  <text x="210" y="118" font-family="'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="42" font-weight="600" letter-spacing="0.08em" fill="#F8FAFC">ME GROWTH <tspan fill="#FFB800">BRIDGE</tspan></text>
 </svg>
