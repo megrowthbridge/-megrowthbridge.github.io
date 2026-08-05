@@ -1557,6 +1557,11 @@ footer {
   text-align: center;
 }
 
+.footer-logo{
+    height:40px;
+    width:auto;
+}
+
 .footer-inner {
   display: flex;
   flex-direction: column;
