@@ -126,6 +126,20 @@ nav .container {
   align-items: center;
 }
 
+.logo {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  line-height: 0;
+}
+
+.site-logo {
+  width: auto;
+  height: 38px;
+  display: block;
+  object-fit: contain;
+}
+
 .nav-brand {
   display: flex;
   align-items: center;
@@ -1580,8 +1594,8 @@ footer {
 }
 
 .footer-brand img {
-  width: 34px;
-  height: 34px;
+  height: 32px;
+  width: auto;
   display: block;
   object-fit: contain;
 }
@@ -1782,6 +1796,10 @@ footer {
 
   .nav-brand {
     font-size: 0.95rem;
+  }
+
+  .site-logo {
+    height: 30px;
   }
 
   .nav-brand svg,
